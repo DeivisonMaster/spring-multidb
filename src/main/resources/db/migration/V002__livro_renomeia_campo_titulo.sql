@@ -1,0 +1,1 @@
+alter table livro change titulo titulo_livro varchar(80);
