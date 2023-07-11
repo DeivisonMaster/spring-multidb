@@ -5,7 +5,7 @@
 API REST integra duas bases de dados diferentes. API possui endpoint básico para incluir livro onde o campo nome do usuário do livro virá do banco Auth e 
 O livro será persistido no banco App. São duas bases distintas do provedor MySQL. Pode-se incrementar outros provedores como Oracle ou PostgreSQL futuramente.
 
-![Screenshot](docs/spring multidb.jpg)
+![Screenshot](docs/multidb.jpg)
 
 <br/>
 
